@@ -1,7 +1,7 @@
 
 # FERRAVISION
 
-**FERRAVISION** es un sistema inteligente diseñado para analizar imágenes de materiales de construcción y proporcionar información detallada sobre cada elemento, incluyendo precio, materiales necesarios y otros datos relevantes. Utiliza la API de OpenAI (ChatGPT) y AWS Rekognition para realizar análisis de imágenes y descripciones de los elementos detectados, ofreciendo una visión completa y útil de cada material.
+**FERRAVISION** es un sistema inteligente diseñado para analizar imágenes de materiales de construcción y proporcionar información detallada sobre cada elemento, incluyendo precio, materiales necesarios y otros datos relevantes. Utiliza la API de OpenAI (ChatGPT) y AWS para realizar análisis de imágenes y descripciones de los elementos detectados, ofreciendo una visión completa y útil de cada material.
 
 ## Características
 
